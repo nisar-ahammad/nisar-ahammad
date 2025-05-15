@@ -30,14 +30,18 @@ Java Backend Developer | Spring Boot • JPA • Hibernate • MySQL • REST AP
 
 | Project | Description |
 |--------|-------------|
-| 🎬 **[Movie Watchlist App](https://github.com/Nisar_Ahammad/watchlist-app)** | A CRUD-based Spring Boot web app to manage your favorite movies using Thymeleaf, MySQL, and JPA |
+| 🎬 **[Movie Watchlist App](https://github.com/Nisar_Ahammad/watchlist-app)** | A smart web app for movie lovers who don’t have time to waste on bad movies!
+Users can add movie names and instantly view ratings to decide whether a movie is worth watching.
+
+Built With:
+Spring Boot • Thymeleaf • MySQL/H2 Databse • JPA • Hibernate|
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisar_Ahammad&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisar_Ahammad&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nisar-ahammad&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisar-ahammad&layout=compact&theme=radical" width="300"/>
 </p>
 
