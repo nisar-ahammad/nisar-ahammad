@@ -30,7 +30,7 @@ Java Backend Developer | Spring Boot • JPA • Hibernate • MySQL • REST AP
 
 | Project | Description |
 |--------|-------------|
-| 🎬 **[Movie Watchlist App]([https://github.com/Nisar_Ahammad/watchlist-app](https://github.com/nisar-ahammad/watchlist-app.git))** | A smart web app for movie lovers who don’t have time to waste on bad movies!
+| 🎬 **[Movie Watchlist App](https://github.com/nisar-ahammad/watchlist-app.git)** | A smart web app for movie lovers who don’t have time to waste on bad movies!
 Users can add movie names and instantly view ratings to decide whether a movie is worth watching.
 
 Built With:
