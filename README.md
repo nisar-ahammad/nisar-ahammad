@@ -10,7 +10,7 @@ Java Backend Developer | Spring Boot • JPA • Hibernate • MySQL • REST AP
 
 - 🌱 Currently learning **Spring Boot**, JPA, and Hibernate  
 - 💬 Ask me about **Java, backend development, or REST APIs**  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nisar-ahammad) <!-- Replace with your actual link -->
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nisar-ahammad) <!-- Replace with your actual link -->
 - 🛠️ Focused on building real-world backend projects
 
 ---
